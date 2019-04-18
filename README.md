@@ -1,16 +1,22 @@
-# tipcalculator
+# Tip n Split
 
-A new Flutter project.
+Bloc pattern based a simple tips and splitting application, it was made using Flutter. 
 
-## Getting Started
+## Feature
 
-This project is a starting point for a Flutter application.
++ Adding tip percentage
++ Adding how many splits the bill gonna have
++ Beautiful UI with animations.
++ Gives silly suggestions or scolds you for your activity :P
 
-A few resources to get you started if this is your first Flutter project:
+## Plugins used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Used to RxDart to update the total price and other tip related calculation easily.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Demo
+
+![Alt Text](https://github.com/adar2378/tip_calculator/blob/master/untitled.gif)
+
+Inspired by this design
+- [Design](https://dribbble.com/shots/3984873-Tip-calculator)
+
