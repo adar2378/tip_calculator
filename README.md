@@ -16,6 +16,7 @@ Used to RxDart to update the total price and other tip related calculation easil
 ## Demo
 
 <img src="https://github.com/adar2378/tip_calculator/blob/master/untitled.gif" width="160" height="320" />
+[Youtube Link](https://www.youtube.com/watch?v=JexTCATv6kU)
 
 Inspired by this design
 - Design : [Dribble link](https://dribbble.com/shots/3984873-Tip-calculator)
