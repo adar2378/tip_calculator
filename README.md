@@ -11,7 +11,7 @@ Bloc pattern based a simple tips and splitting application, it was made using Fl
 
 ## Plugins used
 
-Used to RxDart to update the total price and other tip related calculation easily.
+Used RxDart to update the total price and other tip related calculation easily.
 
 ## Demo
 
